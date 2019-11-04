@@ -1,0 +1,11 @@
+{
+	"type_name": "pos",
+    "isshow": false,
+    "isbase": false,
+	"pos": false,
+    "form": {
+        "1_x": "num",
+        "2_y": "num",
+        "3_z": "num"
+    }
+}

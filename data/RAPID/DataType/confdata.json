@@ -1,0 +1,12 @@
+{
+	"type_name": "confdata",
+    "isshow": false,
+    "isbase": false,
+	"isdata": false,
+    "form": {
+        "1_cf1": "num",
+        "2_cf4": "num",
+        "3_cf6": "num",
+        "4_cfx": "num"
+    }
+}

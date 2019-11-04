@@ -1,0 +1,12 @@
+{
+	"type_name": "orient",
+    "isshow": false,
+    "isbase": false,
+	"isdata": false,
+    "form": {
+        "1_q1": "num",
+        "2_q2": "num",
+        "3_q3": "num",
+        "4_q4": "num"
+    }
+}

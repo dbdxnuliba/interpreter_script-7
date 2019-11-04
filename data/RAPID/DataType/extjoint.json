@@ -1,0 +1,14 @@
+{
+	"type_name": "extjoint",
+    "isshow": false,
+    "isbase": false,
+	"isdata": false,
+    "form": {
+        "1_eax_a": "num",
+        "2_eax_b": "num",
+        "3_eax_c": "num",
+        "4_eax_d": "num",
+        "5_eax_e": "num",
+        "6_eax_f": "num"
+    }
+}

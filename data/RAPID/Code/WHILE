@@ -1,0 +1,4 @@
+Common,Prog.Flow
+WHILE <EXP> DO
+<SMT>
+ENDWHILE

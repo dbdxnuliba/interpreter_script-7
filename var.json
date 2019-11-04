@@ -1,0 +1,344 @@
+{
+	"bool": [
+		{
+            "name": "TRUE",
+            "val": "TRUE"
+        },
+        {
+            "name": "FALSE",
+            "val": "FALSE"
+        }
+	],
+	"num": [
+		{
+            "name": "END_OF_LIST",
+            "val": "-1"
+        },
+        {
+            "name": "EOF_BIN",
+            "val": "-1"
+        },
+        {
+            "name": "EOF_NUM",
+            "val": "9.998e+36"
+        },
+        {
+            "name": "pi",
+            "val": "3.14159"
+        },
+        {
+            "name": "WAIT_MAX",
+            "val": "8388608"
+        }
+	],
+	"speeddata": [
+		{
+            "name": "v5",
+            "val": "[5,500,5000,1000]"
+        },
+        {
+            "name": "v10",
+            "val": "[10,500,5000,1000]"
+        },
+		{
+            "name": "v20",
+            "val": "[20,500,5000,1000]"
+        },
+        {
+            "name": "v30",
+            "val": "[30,500,5000,1000]"
+        },
+		{
+            "name": "v40",
+            "val": "[40,500,5000,1000]"
+        },
+        {
+            "name": "v50",
+            "val": "[50,500,5000,1000]"
+        },
+		{
+            "name": "v60",
+            "val": "[60,500,5000,1000]"
+        },
+        {
+            "name": "v80",
+            "val": "[80,500,5000,1000]"
+        },
+		{
+            "name": "v100",
+            "val": "[100,500,5000,1000]"
+        },
+        {
+            "name": "v150",
+            "val": "[150,500,5000,1000]"
+        },
+		{
+            "name": "v200",
+            "val": "[200,500,5000,1000]"
+        },
+        {
+            "name": "v300",
+            "val": "[300,500,5000,1000]"
+        },
+		{
+            "name": "v400",
+            "val": "[400,500,5000,1000]"
+        },
+        {
+            "name": "v500",
+            "val": "[500,500,5000,1000]"
+        },
+		{
+            "name": "v600",
+            "val": "[600,500,5000,1000]"
+        },
+        {
+            "name": "v800",
+            "val": "[800,500,5000,1000]"
+        },
+		{
+            "name": "v1000",
+            "val": "[1000,500,5000,1000]"
+        },
+		{
+            "name": "v1500",
+            "val": "[1500,500,5000,1000]"
+        },
+        {
+            "name": "v2000",
+            "val": "[2000,500,5000,1000]"
+        },
+		{
+            "name": "v2500",
+            "val": "[2500,500,5000,1000]"
+        },
+        {
+            "name": "v3000",
+            "val": "[3000,500,5000,1000]"
+        },
+		{
+            "name": "v4000",
+            "val": "[4000,500,5000,1000]"
+        },
+        {
+            "name": "v5000",
+            "val": "[5000,500,5000,1000]"
+        },
+		{
+            "name": "v6000",
+            "val": "[6000,500,5000,1000]"
+        },
+		{
+            "name": "v7000",
+            "val": "[7000,500,5000,1000]"
+        },
+        {
+            "name": "vrot1",
+            "val": "[0,0,0,1]"
+        },
+		{
+            "name": "vrot2",
+            "val": "[0,0,0,2]"
+        },
+        {
+            "name": "vrot5",
+            "val": "[0,0,0,5]"
+        },
+		{
+            "name": "vrot10",
+            "val": "[0,0,0,10]"
+        },
+        {
+            "name": "vrot20",
+            "val": "[0,0,0,20]"
+        },
+		{
+            "name": "vrot50",
+            "val": "[0,0,0,50]"
+        },
+        {
+            "name": "vrot100",
+            "val": "[0,0,0,100]"
+        },
+		{
+            "name": "vlin10",
+            "val": "[0,0,10,0]"
+        },
+        {
+            "name": "vlin20",
+            "val": "[0,0,20,0]"
+        },
+		{
+            "name": "vlin50",
+            "val": "[0,0,50,0]"
+        },
+		{
+            "name": "vlin100",
+            "val": "[0,0,100,0]"
+        },
+        {
+            "name": "vlin200",
+            "val": "[0,0,200,0]"
+        },
+		{
+            "name": "vlin500",
+            "val": "[0,0,500,0]"
+        },
+        {
+            "name": "vlin1000",
+            "val": "[0,0,1000,0]"
+        }
+	],
+	"string": [
+		{
+            "name": "diskhome",
+            "val": "HOME:"
+        },
+        {
+            "name": "disktemp",
+            "val": "TEMP"
+        },
+        {
+            "name": "EOF",
+            "val": "EOF"
+        },
+        {
+            "name": "stEmpty",
+            "val": ""
+        },
+        {
+            "name": "STR_DIGIT",
+            "val": "0123456789"
+        },
+        {
+            "name": "STR_LOWER",
+            "val": "abcdefghijklmnopqrstuvwxyz"
+        },
+        {
+            "name": "STR_UPPER",
+            "val": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        },
+        {
+            "name": "STR_WHITE",
+            "val": " "
+        },
+        {
+            "name": "stSpace",
+            "val": " "
+        },
+        {
+            "name": "uidnumentrystr",
+            "val": "UIDnumEntry"
+        },
+        {
+            "name": "uidnumtunestr",
+            "val": "UIDnumTune"
+        },
+        {
+            "name": "uinumentrystr",
+            "val": "UINumEntry"
+        },
+        {
+            "name": "uinumtunestr",
+            "val": "UINumTune"
+        },
+        {
+            "name": "usbdisk1",
+            "val": "RemovableDisk1:"
+        },
+        {
+            "name": "usbdisk2",
+            "val": "RemovableDisk2:"
+        },
+        {
+            "name": "usbdisk3",
+            "val": "RemovableDisk3:"
+        },
+        {
+            "name": "usbdisk4",
+            "val": "RemovableDisk4:"
+        },
+        {
+            "name": "usbdisk5",
+            "val": "RemovableDisk5:"
+        },
+        {
+            "name": "usbdisk6",
+            "val": "RemovableDisk6:"
+        },
+        {
+            "name": "usbdisk7",
+            "val": "RemovableDisk7:"
+        },
+        {
+            "name": "usbdisk8",
+            "val": "RemovableDisk8:"
+        },
+        {
+            "name": "usbdisk9",
+            "val": "RemovableDisk9:"
+        },
+        {
+            "name": "usbdisk10",
+            "val": "RemovableDisk10:"
+        }
+	],
+	"zonedata": [
+		{
+            "name": "z0",
+            "val": "[FALSE,0.3,0.3,0.3,0.03,0.3,0.03]"
+        },
+        {
+            "name": "z1",
+            "val": "[FALSE,1,1,1,0.1,1,0.1]"
+        },
+		{
+            "name": "z5",
+            "val": "[FALSE,5,8,8,0.8,8,0.8]"
+        },
+		{
+            "name": "z10",
+            "val": "[FALSE,10,15,15,1.5,15,1.5]"
+        },
+		{
+            "name": "z15",
+            "val": "[FALSE,15,23,23,2.3,23,2.3]"
+        },
+		{
+            "name": "z20",
+            "val": "[FALSE,20,30,30,3.0,30,3.0]"
+        },
+		{
+            "name": "z30",
+            "val": "[FALSE,30,45,45,4.5,45,4.5]"
+        },
+		{
+            "name": "z40",
+            "val": "[FALSE,40,60,60,6.0,60,6.0]"
+        },
+		{
+            "name": "z50",
+            "val": "[FALSE,50,75,75,7.5,75,7.5]"
+        },
+		{
+            "name": "z60",
+            "val": "[FALSE,60,90,90,9.0,90,9.0]"
+        },
+		{
+            "name": "z80",
+            "val": "[FALSE,80,90,90,9.0,90,9.0]"
+        },
+		{
+            "name": "z100",
+            "val": "[FALSE,100,150,150,15,150,15]"
+        },
+		{
+            "name": "z150",
+            "val": "[FALSE,150,225,225,23,225,23]"
+        },
+		{
+            "name": "z200",
+            "val": "[FALSE,200,300,300,30,300,30]"
+        }
+	]
+}

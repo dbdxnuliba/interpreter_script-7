@@ -1,0 +1,2 @@
+Common,Motion&Proc,M.C 1,M.C 2,M.C 3
+MoveC *, *, v1000, z10, tool0;

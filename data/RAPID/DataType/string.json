@@ -1,0 +1,169 @@
+{
+	"type_name": "string",
+    "isshow": true,
+    "isbase": true,
+	"isdata": true,
+    "data": [
+        {
+            "name": "diskhome",
+            "val": "HOME:",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "disktemp",
+            "val": "TEMP",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "EOF",
+            "val": "EOF",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "stEmpty",
+            "val": "",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "STR_DIGIT",
+            "val": "0123456789",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "STR_LOWER",
+            "val": "abcdefghijklmnopqrstuvwxyz",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "STR_UPPER",
+            "val": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "STR_WHITE",
+            "val": " ",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "stSpace",
+            "val": " ",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "uidnumentrystr",
+            "val": "UIDnumEntry",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "uidnumtunestr",
+            "val": "UIDnumTune",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "uinumentrystr",
+            "val": "UINumEntry",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "uinumtunestr",
+            "val": "UINumTune",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "usbdisk1",
+            "val": "RemovableDisk1:",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "usbdisk2",
+            "val": "RemovableDisk2:",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "usbdisk3",
+            "val": "RemovableDisk3:",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "usbdisk4",
+            "val": "RemovableDisk4:",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "usbdisk5",
+            "val": "RemovableDisk5:",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "usbdisk6",
+            "val": "RemovableDisk6:",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "usbdisk7",
+            "val": "RemovableDisk7:",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "usbdisk8",
+            "val": "RemovableDisk8:",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "usbdisk9",
+            "val": "RemovableDisk9:",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        },
+        {
+            "name": "usbdisk10",
+            "val": "RemovableDisk10:",
+            "task": "all",
+            "local": "true",
+            "type": "string"
+        }
+    ]
+}

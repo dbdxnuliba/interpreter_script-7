@@ -1,0 +1,13 @@
+{
+	"type_name": "wobjdata",
+    "isshow": false,
+    "isbase": false,
+	"isdata": false,
+    "form": {
+        "1_robhold": "bool",
+        "2_ufprog": "bool",
+        "3_ufmec": "string",
+        "4_uframe": "pose",
+        "5_oframe": "pose"
+    }
+}

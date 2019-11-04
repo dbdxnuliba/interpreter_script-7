@@ -1,0 +1,4 @@
+Common,Prog.Flow
+FOR <ID> FROM <EXP> TO <EXP> DO
+<SMT>
+ENDFOR

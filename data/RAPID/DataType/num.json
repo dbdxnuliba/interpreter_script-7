@@ -1,0 +1,43 @@
+{
+	"type_name": "num",
+    "isshow": true,
+    "isbase": true,
+	"isdata": true,
+    "data": [
+        {
+            "name": "END_OF_LIST",
+            "val": "-1",
+            "task": "all",
+            "local": "true",
+            "type": "num"
+        },
+        {
+            "name": "EOF_BIN",
+            "val": "-1",
+            "task": "all",
+            "local": "true",
+            "type": "num"
+        },
+        {
+            "name": "EOF_NUM",
+            "val": "9.998e+36",
+            "task": "all",
+            "local": "true",
+            "type": "num"
+        },
+        {
+            "name": "pi",
+            "val": "3.14159",
+            "task": "all",
+            "local": "true",
+            "type": "num"
+        },
+        {
+            "name": "WAIT_MAX",
+            "val": "8388608",
+            "task": "all",
+            "local": "true",
+            "type": "num"
+        }
+    ]
+}

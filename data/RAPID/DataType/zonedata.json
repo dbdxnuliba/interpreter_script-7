@@ -1,0 +1,115 @@
+{
+	"type_name": "zonedata",
+    "isshow": false,
+    "isbase": false,
+	"isdata": true,
+    "form": {
+        "1_finep": "bool",
+        "2_pzone_tcp": "num",
+        "3_pzone_ori": "num",
+        "4_pzone_eax": "num",
+		"5_zone_ori": "num",
+		"6_zone_leax": "num",
+		"7_zone_reax": "num"
+    },
+	"data": [
+        {
+            "name": "z0",
+            "val": "[FALSE,0.3,0.3,0.3,0.03,0.3,0.03]",
+            "task": "all",
+            "local": "true",
+            "type": "zonedata"
+        },
+        {
+            "name": "z1",
+            "val": "[FALSE,1,1,1,0.1,1,0.1]",
+            "task": "all",
+            "local": "true",
+            "type": "zonedata"
+        },
+		{
+            "name": "z5",
+            "val": "[FALSE,5,8,8,0.8,8,0.8]",
+            "task": "all",
+            "local": "true",
+            "type": "zonedata"
+        },
+		{
+            "name": "z10",
+            "val": "[FALSE,10,15,15,1.5,15,1.5]",
+            "task": "all",
+            "local": "true",
+            "type": "zonedata"
+        },
+		{
+            "name": "z15",
+            "val": "[FALSE,15,23,23,2.3,23,2.3]",
+            "task": "all",
+            "local": "true",
+            "type": "zonedata"
+        },
+		{
+            "name": "z20",
+            "val": "[FALSE,20,30,30,3.0,30,3.0]",
+            "task": "all",
+            "local": "true",
+            "type": "zonedata"
+        },
+		{
+            "name": "z30",
+            "val": "[FALSE,30,45,45,4.5,45,4.5]",
+            "task": "all",
+            "local": "true",
+            "type": "zonedata"
+        },
+		{
+            "name": "z40",
+            "val": "[FALSE,40,60,60,6.0,60,6.0]",
+            "task": "all",
+            "local": "true",
+            "type": "zonedata"
+        },
+		{
+            "name": "z50",
+            "val": "[FALSE,50,75,75,7.5,75,7.5]",
+            "task": "all",
+            "local": "true",
+            "type": "zonedata"
+        },
+		{
+            "name": "z60",
+            "val": "[FALSE,60,90,90,9.0,90,9.0]",
+            "task": "all",
+            "local": "true",
+            "type": "zonedata"
+        },
+		{
+            "name": "z80",
+            "val": "[FALSE,80,90,90,9.0,90,9.0]",
+            "task": "all",
+            "local": "true",
+            "type": "zonedata"
+        },
+		{
+            "name": "z100",
+            "val": "[FALSE,100,150,150,15,150,15]",
+            "task": "all",
+            "local": "true",
+            "type": "zonedata"
+        },
+		{
+            "name": "z150",
+            "val": "[FALSE,150,225,225,23,225,23]",
+            "task": "all",
+            "local": "true",
+            "type": "zonedata"
+        },
+		{
+            "name": "z200",
+            "val": "[FALSE,200,300,300,30,300,30]",
+            "task": "all",
+            "local": "true",
+            "type": "zonedata"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+	"type_name": "robtarget",
+    "isshow": false,
+    "isbase": false,
+	"isdata": false,
+    "form": {
+        "1_trans": "pos",
+        "2_rot": "orient",
+        "3_robconf": "confdata",
+        "4_extax": "extjoint"
+    }
+}

@@ -1,0 +1,2 @@
+Common,Motion&Proc.
+MoveAbsJ *\NoEoffs, v1000, z50, tool0;

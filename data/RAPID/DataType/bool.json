@@ -1,0 +1,22 @@
+{
+	"type_name": "bool",
+    "isshow": false,
+    "isbase": true,
+	"isdata": true,
+	"data": [
+        {
+            "name": "TRUE",
+            "val": "TRUE",
+            "task": "all",
+            "local": "true",
+            "type": "bool"
+        },
+        {
+            "name": "FALSE",
+            "val": "FALSE",
+            "task": "all",
+            "local": "true",
+            "type": "bool"
+        }
+    ]
+}

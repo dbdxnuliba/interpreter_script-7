@@ -1,0 +1,287 @@
+{
+	"type_name": "speeddata",
+    "isshow": false,
+    "isbase": false,
+	"isdata": true,
+    "form": {
+        "1_v_tcp": "num",
+        "2_v_ori": "num",
+        "3_v_leax": "num",
+        "4_v_reax": "num"
+    },
+	"data": [
+        {
+            "name": "v5",
+            "val": "[5,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "v10",
+            "val": "[10,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "v20",
+            "val": "[20,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "v30",
+            "val": "[30,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "v40",
+            "val": "[40,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "v50",
+            "val": "[50,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "v60",
+            "val": "[60,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "v80",
+            "val": "[80,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "v100",
+            "val": "[100,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "v150",
+            "val": "[150,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "v200",
+            "val": "[200,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "v300",
+            "val": "[300,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "v400",
+            "val": "[400,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "v500",
+            "val": "[500,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "v600",
+            "val": "[600,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "v800",
+            "val": "[800,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "v1000",
+            "val": "[1000,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "v1500",
+            "val": "[1500,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "v2000",
+            "val": "[2000,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "v2500",
+            "val": "[2500,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "v3000",
+            "val": "[3000,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "v4000",
+            "val": "[4000,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "v5000",
+            "val": "[5000,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "v6000",
+            "val": "[6000,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "v7000",
+            "val": "[7000,500,5000,1000]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "vrot1",
+            "val": "[0,0,0,1]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "vrot2",
+            "val": "[0,0,0,2]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "vrot5",
+            "val": "[0,0,0,5]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "vrot10",
+            "val": "[0,0,0,10]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "vrot20",
+            "val": "[0,0,0,20]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "vrot50",
+            "val": "[0,0,0,50]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "vrot100",
+            "val": "[0,0,0,100]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "vlin10",
+            "val": "[0,0,10,0]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "vlin20",
+            "val": "[0,0,20,0]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "vlin50",
+            "val": "[0,0,50,0]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "vlin100",
+            "val": "[0,0,100,0]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "vlin200",
+            "val": "[0,0,200,0]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+		{
+            "name": "vlin500",
+            "val": "[0,0,500,0]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        },
+        {
+            "name": "vlin1000",
+            "val": "[0,0,1000,0]",
+            "task": "all",
+            "local": "true",
+            "type": "speeddata"
+        }
+    ]
+}

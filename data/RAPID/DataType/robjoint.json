@@ -1,0 +1,14 @@
+{
+	"type_name": "robjoint",
+    "isshow": false,
+    "isbase": false,
+	"isdata": false,
+    "form": {
+        "1_rax_1": "num",
+        "2_rax_2": "num",
+		"3_rax_3": "num",
+		"4_rax_4": "num",
+		"5_rax_5": "num",
+		"6_rax_6": "num"
+    }
+}

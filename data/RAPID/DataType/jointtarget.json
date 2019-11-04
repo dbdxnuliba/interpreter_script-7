@@ -1,0 +1,10 @@
+{
+	"type_name": "jointtarget",
+    "isshow": false,
+    "isbase": false,
+	"isdata": false,
+    "form": {
+        "1_robax": "robjoint",
+        "2_extax": "extjoint"
+    }
+}

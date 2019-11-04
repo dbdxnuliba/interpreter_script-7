@@ -1,0 +1,11 @@
+{
+	"type_name": "tooldata",
+    "isshow": false,
+    "isbase": false,
+	"isdata": false,
+    "form": {
+        "1_robhold": "bool",
+        "2_tframe": "pose",
+        "3_tload": "loaddata"
+    }
+}

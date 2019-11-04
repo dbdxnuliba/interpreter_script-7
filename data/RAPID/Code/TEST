@@ -1,0 +1,5 @@
+Prog.Flow
+TEST <EXP>
+CASE <EXP>:
+<SMT>
+ENDTEST

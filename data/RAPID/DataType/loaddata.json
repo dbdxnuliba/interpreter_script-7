@@ -1,0 +1,14 @@
+{
+	"type_name": "loaddata",
+    "isshow": false,
+    "isbase": false,
+	"isdata": false,
+    "form": {
+        "1_mass": "num",
+        "2_cog": "pos",
+        "3_aom": "orient",
+        "4_ix": "num",
+        "5_iy": "num",
+        "6_iz": "num"
+    }
+}
